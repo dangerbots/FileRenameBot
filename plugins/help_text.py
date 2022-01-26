@@ -106,7 +106,7 @@ async def start_me(bot, update):
                     InlineKeyboardButton('Feedback', url='https://t.me/theroyalfox')
                 ],
                 [
-                    InlineKeyboardButton('Other Bots', url='https://t.me/Mai_bOTs/17'),
+                    InlineKeyboardButton('Other Bots', url='https://t.me/danger_bots'),
                     InlineKeyboardButton('Owner', url='https://t.me/am_dq_fan')
                 ]
             ]
