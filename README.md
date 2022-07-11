@@ -1,4 +1,4 @@
-# - File Rename Bot
+I# - File Rename Bot
 
 <p align="center">
   <a href="https://github.com/No-OnE-Kn0wS-Me/FileRenameBot/stargazers">
@@ -29,7 +29,7 @@
 
 # Deploy straight to Heroku!
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/dqanshi/FileRenameBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/dangerbots/FileRenameBot)
 
 # Required Strings :-
 
